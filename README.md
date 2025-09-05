@@ -3,24 +3,39 @@
 <br>
 
 <div align="center">
-  <h2>`プログラマ`</h2>
+  <h2>プログラマ</h2>
   <samp>
-      <h6>
-      Hi there! I'm <b>Alyson Pinho<h6>
+    <h3>Hi there! I'm <b>Alyson Pinho</b></h3>
   </samp>
 </div>
 
 <div align="center">
   <!-- Gif divertido -->
-<img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="250" alt="Debugging chaos"/>
+  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="250" alt="Debugging chaos"/>
 </div>
 
 <div align="center" width="100%">
   <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=1E90FF&width=900&size=22&center=true&lines=I+am+from+Brazil;I'm+a+Nursing+student;I'm+learning+programming;Be+welcome!" alt="Typing SVG"/>
 </div>
 
-<br>
+---
 
+### 🚀 Sobre mim  
+
+Olá! Sou **Alyson Pinho**, desenvolvedor de software apaixonado por tecnologia e resolução de problemas.  
+Atualmente estudo **Análise e Desenvolvimento de Sistemas** e tenho experiência no desenvolvimento de aplicações **back-end e front-end**, utilizando tecnologias modernas para criar soluções robustas e escaláveis.  
+
+💻 Tecnologias que mais utilizo:  
+- **Back-end:** Java (Spring Boot), C#, .NET, Node.js  
+- **Front-end:** Angular, JavaScript, TypeScript, HTML5, CSS3, Bootstrap  
+- **Banco de Dados:** SQL Server, MySQL, PostgreSQL  
+- **Ferramentas e DevOps:** Git/GitHub, Docker, Kubernetes, REST APIs  
+
+🔎 Busco sempre aprender novas ferramentas e boas práticas para evoluir como desenvolvedor e colaborar em projetos que impactem positivamente pessoas e negócios.  
+
+📫 Você pode me encontrar no [LinkedIn](https://www.linkedin.com/in/alysonrdev/) ou por e-mail em **alyson.rdev@gmail.com**.  
+
+---
 
 <br><br>
 
