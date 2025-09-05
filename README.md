@@ -46,7 +46,7 @@
 <div align="center"> 
   <samp> <b> Contact me: </b> </samp> 
   <br><br> 
-  [![Gmail](https://img.shields.io/badge/Gmail-6e3a5d?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:seuemail@exemplo.com) 
+  [![Gmail](https://img.shields.io/badge/Gmail-6e3a5d?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:alyson.rdev@gmail.com) 
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-6e3a5d?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/alysonrdev/)
   [![Discord](https://img.shields.io/badge/Discord-6e3a5d?style=for-the-badge&logo=Discord&logoColor=fff)](https://discord.com/users/seuID) 
 </div> 
